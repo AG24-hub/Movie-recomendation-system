@@ -43,7 +43,7 @@ Ensure you have Python 3.7 or later installed on your system.
 1. **Clone the Repository** 🔧
    ```bash
    git clone https://github.com/AG24-hub/Movie-recomendation-system.git
-   cd MovieMentor-Hollywood-Film-Suggestions
+   cd Movie-recomendation-system
    ```
 
 2. **Create a Virtual Environment** 🌍

@@ -25,12 +25,6 @@
 
 ---
 
-## Live Demo 🚀
-
-Explore MovieMentor live at [MovieMentor Web App]([https://movie-recomendation-system-lf54jlvsyvtjhjh2dqtgqe.streamlit.app/])  🌐
-
----
-
 ## Installation Instructions 🛠️
 
 Follow these steps to set up and run MovieMentor on your local machine:

@@ -27,7 +27,7 @@
 
 ## Live Demo 🚀
 
-Explore MovieMentor live at [MovieMentor Web App](https://moviementor-hollywood-film-suggestions.streamlit.app/)  🌐
+Explore MovieMentor live at [MovieMentor Web App]([https://moviementor-hollywood-film-suggestions.streamlit.app/](https://movie-recomendation-system-lf54jlvsyvtjhjh2dqtgqe.streamlit.app/))  🌐
 
 ---
 
